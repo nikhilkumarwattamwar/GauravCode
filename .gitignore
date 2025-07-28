@@ -1,0 +1,13 @@
+.idea/
+*.class
+*.log
+*.jar
+*.iml
+*.apk
+*.exe
+.DS_Store
+node_modules/
+build/
+.gradle/
+target/
+*.swp
