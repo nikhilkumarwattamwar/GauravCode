@@ -1,4 +1,4 @@
-package OOPsConcepts;
+package oopsconcepts;
 
 public class BasicMethodOverloading {
     int add(int a, int b) {

@@ -1,4 +1,4 @@
-package OOPsConcepts;
+package oopsconcepts;
 
 class Animals{
     void makeSound(String sound){

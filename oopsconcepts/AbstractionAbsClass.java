@@ -1,4 +1,4 @@
-package OOPsConcepts;
+package oopsconcepts;
 
 abstract class Tv{
     abstract void turnOn();

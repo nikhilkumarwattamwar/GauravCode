@@ -1,4 +1,4 @@
-package OOPsConcepts;
+package oopsconcepts;
 
 interface Humans{
     default void care(){
