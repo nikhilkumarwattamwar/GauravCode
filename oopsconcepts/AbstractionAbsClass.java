@@ -1,10 +1,10 @@
 package oopsconcepts;
 
-abstract class Tv{
+abstract class TV{
     abstract void turnOn();
     abstract void turnOff();
 }
-class Remote extends Tv{
+class Remote extends TV{
     void turnOn(){
         System.out.println("Turn ON the TV");
     }
@@ -14,7 +14,7 @@ class Remote extends Tv{
 }
 public class AbstractionAbsClass {
     public static void main(String[] args){
-        Tv myRemote = new Remote();
+        TV myRemote = new Remote();
         myRemote.turnOn();
         myRemote.turnOff();
     }
