@@ -9,7 +9,7 @@ public class StringExample3 {
         if (name.equals("pune")){
             System.out.println("welcome to pune");
         }
-        else if (name.equals("mumbNai")) {
+        else if (name.equals("mumbai")) {
             System.out.println("welcome to mumbai");
         }
         else if (name.equals("Navi Mumbai")) {
