@@ -1,7 +1,5 @@
 package stringpractice;
 //String Methods
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-import java.util.Locale;
 
 public class StringExample1 {
     public static void main(String[] args) {
@@ -21,8 +19,8 @@ public class StringExample1 {
 
         String s3 = "SOnawANE";
         System.out.println(s3.substring(0,3));
-        System.out.println(s3.toLowerCase(Locale.ROOT));
-        System.out.println(s3.toUpperCase(Locale.ROOT));
+        System.out.println(s3.toLowerCase());
+        System.out.println(s3.toUpperCase());
 
         String s4 = "hello";
         String s5 = "HEllO";
