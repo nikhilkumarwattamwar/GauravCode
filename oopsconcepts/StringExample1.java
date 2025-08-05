@@ -17,6 +17,9 @@ public class StringExample1 {
         final String s8 ="you cannot ";
         String s9 = s8 + "change me";
         System.out.println(s4==s9);
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s3));
+        System.out.println(s1.equals(s5));
 
     }
 }
