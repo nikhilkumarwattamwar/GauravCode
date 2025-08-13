@@ -1,4 +1,4 @@
-package OOPsConcepts;
+package oopsconcepts;
 
 public class MethodOverloading2 {
     public String info(String name){

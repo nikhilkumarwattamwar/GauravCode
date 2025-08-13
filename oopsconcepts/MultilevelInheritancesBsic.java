@@ -1,4 +1,4 @@
-package OOPsConcepts;
+package oopsconcepts;
 
 class Human{
     void show(){
